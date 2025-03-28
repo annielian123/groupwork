@@ -1,0 +1,51 @@
+State (Observations) ,Carbon_Emission,Total_land,Energy_consumption,forested_land,State_plan,Large_cities,Transport,Wildfires,Population
+Alabama,21.5,52.420,375,70.57,Yes,no,low,"1,856",5.157699
+Alaska,56.3,664.998,987,35.16,Yes,no,low,346,0.740133
+Arizona,11.1,113.990,207,25.64,Yes,yes,low,"1,837",7.582384
+Arkansas,20.7,53.178,346,56.31,Yes,no,low,147,3.088354
+California,8.4,163.694,176,32.71,Yes,yes,medium,"7,364",39.431263
+Colorado,15.2,104.094,251,34.42,Yes,no,low,861,5.957493
+Connecticut,10.3,5.544,196,55.24,Yes,no,medium,499,3.675069
+Delaware,12.4,2.489,270,27.26,Yes,no,low,1,1.051917
+Florida,10.4,65.758,194,50.68,No,yes,low,"2,730",23.372215
+Georgia,11.4,59.425,260,67.28,Yes,no,low,"2,386",11.180878
+Hawaii,12.6,10.926,188,42.53,yes,no,medium,214,1.446146
+Idaho,10.7,83.568,268,40.55,yes,no,low,892,2.001619
+Illinois,14.6,57.916,292,13.64,Yes,no,high,22,12.710158
+Indiana,23.9,36.417,383,21.06,Yes,no,low,47,6.924275
+Iowa,22.3,56.273,445,8.43,No,no,low,6,3.241488
+Kansas,21.2,82.278,341,4.78,Yes,no,low,49,2.970606
+Kentucky,24.3,40.411,371,49.35,No,no,low,9,4.588372
+Louisiana,41.8,51.988,925,53.2,Yes,no,low,"1,467",4.597740
+Maine,10.8,35.384,241,89.46,Yes,no,low,493,1.405012
+Maryland,8.2,12.406,195,39.36,Yes,no,medium,196,6.263220
+Massachusetts,8.5,10.554,188,60.57,Yes,no,high,"1,079",7.136171
+Michigan,15.3,96.713,270,55.62,Yes,no,low,466,10.140459
+Minnesota,14.8,86.935,308,34.08,Yes,no,low,836,5.793151
+Mississippi,22.1,48.432,374,65.07,Yes,no,low,"2,383",2.943045
+Missouri,18.3,69.702,281,35.16,Yes,no,low,127,6.245466
+Montana,26.3,147.039,352,27.45,Yes,no,low,"1,662",1.137233
+Nebraska,24.4,77.349,430,3.2,Yes,no,low,569,2.005465
+Nevada,12.7,110.572,222,15.89,Yes,yes,low,375,3.267467
+New Hampshire,9.9,9.348,213,84.32,Yes,no,low,52,1.409032
+New Jersey,10,8.723,218,41.72,Yes,no,high,1194,9.500851
+New Mexico,22,121.590,325,31.99,Yes,no,low,1019,2.130256
+New York,8.4,54.555,176,62.88,Yes,no,high,150,19.867248
+North Carolina,10.9,53.819,240,59.73,Yes,yes,low,5214,11.046024
+North Dakota,73.2,70.698,861,1.72,Yes,no,low,471,0.796568
+Ohio,16.7,44.825,298,30.92,Yes,yes,low,883,11.883304
+Oklahoma,21.7,69.899,380,28.8,Yes,no,low,"1,580",4.095393
+Oregon,8.9,98.379,202,48.51,Yes,no,low,"1,979",4.272371
+Pennsylvania,16.5,46.055,288,58.6,Yes,no,medium,"1,910",13.078751
+Rhode Island,9.3,1.545,171,54.38,Yes,no,low,78,1.112308
+South Carolina,12.7,32.021,307,68.19,Yes,no,low,22,5.478831
+South Dakota,17.2,77.116,394,3.93,No,no,low,177,0.924669
+Tennessee,12.9,42.144,298,52.83,Yes,no,low,772,7.227750
+Texas,22.1,268.597,459,37.33,Yes,yes,low,"7,102",31.290831
+Utah,17.8,84.897,251,34.48,Yes,no,low,782,3.503613
+Vermont,8.5,9.616,193,77.81,Yes,no,low,67,0.648493
+Virginia,11.1,42.775,280,62.93,Yes,no,low,43,8.811195
+Washington,9.6,71.298,202,52.74,Yes,no,medium,"1,707",7.958180
+West Virginia,44.6,24.230,471,79.01,Yes,no,low,"1,124",1.769979
+Wisconsin,15.4,65.496,300,48.98,Yes,no,low,"1,086",5.960975
+Wyoming,96.6,97.812,853,18.42,No,no,low,249,0.587618
